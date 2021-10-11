@@ -1,4 +1,4 @@
-from services import GitHubService
+from techharper import GitHubService
 import json
 import argparse
 
