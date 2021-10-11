@@ -1,4 +1,4 @@
-from models.release import Release
+from .release import Release
 
 class Notification():
     name: str
