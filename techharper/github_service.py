@@ -1,6 +1,6 @@
 
 from datetime import datetime
-from models import Release, Notification
+from .models import Release, Notification
 import requests
 
 class GitHubService:
